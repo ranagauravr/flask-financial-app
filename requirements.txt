@@ -132,4 +132,6 @@ wrapt==1.17.2
 zstandard==0.23.0
 markdown
 google-generativeai
+scikit-learn
+
 
