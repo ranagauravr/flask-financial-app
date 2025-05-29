@@ -18,6 +18,8 @@ from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 
+api_key = os.getenv("GEMINI_API_KEY")
+
 
 
 
